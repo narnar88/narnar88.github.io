@@ -2,10 +2,10 @@
   "basics": {
     "name": "Naryssa Fia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "",
     "email": "naryssa@hawaii.edu",
     "phone": "808-375-6084",
-    "website": "https://narnar88.github.io",
+    "website": "https://naryssa-fia.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "narnar88",
-        "url": "http://github.com/narnar88"
+        "username": "naryssa-fia",
+        "url": "http://github.com/naryssa-fia"
       },
       {
         "network": "linkedin",
