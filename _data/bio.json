@@ -31,12 +31,13 @@
     {
       "name": "Cyber Security",
       "keywords": [
-        
+        "Penetration Testing"
       ]
     },
     {
       "name": "Database Management",
       "keywords": [
+        
       ]
     },
     {
@@ -79,7 +80,8 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "3.0",
-      "courses": [
+      "courses": [ 
+        "Discrete Mathematics", "Algorithms", "Security & Trust I & II", "Computer Security and Ethics", "Computer Systems Security"
       ]
     }
   ],
@@ -90,18 +92,18 @@
       "website": "bloomingdales.com",
       "startDate": "2015-10-25",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Provide excellent customer service, display product knowledge, clienteling, meeting/exceeding sales goals",
       "highlights": [
-        ""
+        "B the Best Award Q2 2016", 
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Target",
+      "position": "Starbucks Team Member",
+      "website": "target.com",
+      "startDate": "2014-05-01",
+      "endDate": "2016-10-23",
+      "summary": "Preparing food and beverage items, processing transactions, meeting Department of Health standards",
       "highlights": [
         
       ]
@@ -113,7 +115,7 @@
       "title": "B the Best",
       "date": "2016-07-01",
       "awarder": "Bloomingdales Ala Moana",
-      "summary": "Quarterly award for top performing associates. Position when awarded: Shift Supervisor"
+      "summary": "Quarterly award for top performing associates. Position when awarded: Shift Supervisor for Forty Carrots"
     }
   ],
   "references": [
