@@ -1,0 +1,36 @@
+---
+layout: essay
+type: essay
+title: The Benefits and Applications of Software Engineering
+# All dates must be YYYY-MM-DD format!
+date: 2018-01-18
+labels:
+  - Software Engineering
+  - Learning
+---
+
+
+Good Programming Isn’t About Programming Computers Well
+    As programmers, it is essential to have a good grasp on how to use a number of programming languages. But what tends to be overlooked, is the importance of the habits and social skills of being a good programmer. Every programmer needs to be able to write in C, but every programmer must also be able to explain what was written, and how to communicate work with a team on a project. Whether it be in the workplace, at home with personal projects, programming groups, or online forums, communication, teamwork, adaptability, passion and a couple other behaviors and skills play a huge role in being a good programmer.
+    
+    One of the most important skills for a good programmer to have is adaptability. Currently, as students, we are used to working alone on school assignments. But in the workplace or programming groups, such as PyHawaii or CyberHui, we as programmers have to adapt to working on projects with others [3]. This is also applicable to online forums and blogs. As programmers, sites such as github and stackoverflow are very useful for reaching out for help from other programmers and sharing resources. Also, with a project, there may be new client requests or ideas that will change the path of the project. Being able to adapt to the changes that may arise in a project from feedback, or accepting new requests from a customer, is crucial to being a good programmer [1]. 
+    
+    Outside of adapting to groups and project changes, programmers must also adapt to the ever changing world in which they work [2]. There are always new exploits, techniques, and such being developed [2]. These developments also occur often and quickly, so programmers must be able to adapt to these new techniques and technologies quickly, and on one’s own [4]. As programmers, it is essential to be able to adapt to the new technology in the world. Being stagnant in one’s skill set is detrimental to one’s work, and leaves room for vulnerabilities in programs.
+    Along with changes comes the potential for issues and roadblocks. A good programmer knows when to speak up if a deadline may not be met, if issues come up and help is needed, or if a client request poses a security risk, and so forth [3]. 
+    
+    Good communication is also key here, as communicating an issue is the first step towards a solution. As previously mentioned, adapting to working in teams on projects is a future challenge student programmers have to face [3]. Teamwork is an essential skill in the workplace, programming groups, and forums [1]. With teamwork also comes communication. Without good communication skills, one cannot have good teamwork skills. As programmers working in teams on projects, it is essential to be able to communicate with teammates about progress, issues and so forth [1]. Good programmers must also know when to ask for and how to offer help on projects [5]. Also, a good programmer is able to communicate the details of a project to clients, end users, and others who may not have a good grasp of the technical jargon programmers use amongst themselves[5]. Miscommunication, or lack thereof, may lead to an unhappy client, missing features or lack of security, missed deadlines, and so forth.
+    
+    Being a good programmer is more than just being able to write clean code, a programmer must have passion for the field. Being passionate about the programming world makes the other essential skills so much easier. By being passionate, keeping up with the latest changes in the field becomes second nature, participating in forums becomes routine, and working on personal projects helps to hone skills [4]. In the workplace, having passion about the company allows a programmer to develop the best possible solutions for the company’s needs, and to take the latest updates in the field into consideration when developing a program [2]. 
+    
+    From passion, also comes responsibility. A responsible programmer takes into account the effects of their end product, keeping in mind potential flaws and vulnerabilities [3]. Also, a responsible programmer also communicates and plans out the project with the team [3]. Lastly, researching the project beyond the scope given, be it by a manager, client, or professor, is crucial to understanding the project and how to develop the best outcome possible [3].
+    
+    Lastly, a good programmer needs patience. A client may have an extensive list of requests for a project, or the team may theorize a number of ideas for a project at hand [3]. But it is important to take time with developing each feature and to keep in mind that with increased usability comes less security. Therefore, finding a middle ground between requests and security is a necessary skill that requires patience.
+   
+   Overall, there are many aspects of being a good programmer outside of just writing good code. All of these aspects relate to how we interact with and how our habits affect others. As programmers, the products produced at work or as hobbies often include working with others and have effects on the end users. It is crucial as programmers, especially those in security, to be passionate about the field, and to use that passion to fuel the teamwork and adaptability needed to, not only thrive in the industry, but to also have a positive impact on the programming and cyber security field.
+
+Citations
+[1] http://blog.teamtreehouse.com/8-characteristics-of-a-good-developer
+[2] http://www.codingdojo.com/blog/trait-of-great-programmers/
+[3] https://www.entrepreneur.com/article/240644#
+[4] https://www.techrepublic.com/blog/10-things/10-traits-to-look-for-when-youre-hiring-a-programmer/
+[5] https://coder-coder.com/being-good-programmer-isnt-writing-code/
