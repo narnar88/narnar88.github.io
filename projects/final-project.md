@@ -25,22 +25,39 @@ How to Run the Application
 Sample from Runtime
 
 Naryssas-MacBook-Pro:ICS212F17 naryssa$ ./finalproject
+
 Please input the NAME of the student: Moana of Motunui
+
 Student's CAMPUS: UH Manoa
+
 Student's ID: 13942
+
 Student's MAJOR: ICS
+
 Name: Moana of Motunui
+
 Campus: UH Manoa
+
 Student ID: 13942
+
 Major: ICS
+
 Please input the NAME of the staff:
+
 Maui the Demigod
+
 Staff's CAMPUS: KCC
+
 Staff's ID: 65241
+
 Staff's DEPARTMENT: Anthropology
+
 Name: Maui the Demigod
+
 Campus: KCC
+
 Staff ID: 65241
+
 Department: Anthropology
 
 
