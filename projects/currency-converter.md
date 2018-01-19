@@ -26,27 +26,51 @@ Due to this being a Java program, dependencies must be implemented as JAR files.
 Code Sample From Runtime
 
 Welcome to your bank.
+
 To create a new account, enter 1
+
 To make a deposit, enter 2
+
 To withdraw, enter 3
+
 To display currency info, enter 4.
+
 To get your current balance, enter 5
+
 To quit, enter 6
+
 1
+
 Please enter the currency code for your account (EX: JPY, USD or AUD)
+
 USD
+
 Your new account number is 124.
+
 Welcome to your bank.
+
 To create a new account, enter 1
+
 To make a deposit, enter 2
+
 To withdraw, enter 3
+
 To display currency info, enter 4.
+
 To get your current balance, enter 5
+
 To quit, enter 6
+
 2
+
 Please enter account number:
+
 124
+
 Please enter the amount being deposited:
+
 345.34
+
 Please enter the currency code (USD, AUD, JPY):
+
 USD
