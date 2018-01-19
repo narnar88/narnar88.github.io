@@ -8,7 +8,7 @@ date: 2015-07-01
 labels:
   - Java
   - Currency
-summary: A Java program that mimics a currency converter
+summary: A Java program that mimics a currency converter designed in ICS 355
 ---
 
 Introduction
