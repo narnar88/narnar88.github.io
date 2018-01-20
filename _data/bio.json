@@ -6,7 +6,7 @@
     "email": "naryssa@hawaii.edu",
     "phone": "808-375-6084",
     "website": "https://naryssa-fia.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018.",
+    "summary": "I am a Senior studying for a B.A. in Computer Science and a Certificate in Japanese Language at the University of Hawaii. I expect to graduate in Fall, 2018.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -72,7 +72,8 @@
         "Git/GitHub",
         "g++",
         "Kali Linux",
-        "Windows Server"
+        "Windows Server",
+        "Nmap"
        
       ]
     }
