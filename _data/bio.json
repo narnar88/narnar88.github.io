@@ -39,9 +39,9 @@
       ]
     },
     {
-      "name": "Database Management",
+      "name": "Japanese Language",
       "keywords": [
-        
+        "Japanese", "translation", "日本語"
       ]
     },
     {
@@ -71,6 +71,7 @@
         "Debian",
         "Git/GitHub",
         "g++",
+        "Kali Linux",
         "Windows Server"
        
       ]
