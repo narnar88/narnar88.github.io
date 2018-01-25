@@ -8,7 +8,7 @@ date: 2017-03-15
 labels:
   - Forensics
   - Data Recovery
-summary: A mock computer forensics investigation done in ICS 425. Areas of responsibility: Computer Forensics Lab, AccessData FTK Imager Tool, Recovering Deleted Files and Deleted Partitions, Forensics Investigation Using AccessData FTK, Forensics Investigation Using EnCase
+summary: A mock computer forensics investigation done in a group in ICS 425. Areas of responsibility: Computer Forensics Lab, AccessData FTK Imager Tool, Recovering Deleted Files and Deleted Partitions, Forensics Investigation Using AccessData FTK, Forensics Investigation Using EnCase
 ---
 
 Computer Forensics Investigation Process
