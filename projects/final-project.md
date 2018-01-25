@@ -3,6 +3,7 @@ layout: project
 type: project
 title: final-project
 permalink: projects/final-project
+image: images/ICS212_F17_final_project.png
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-05
 labels:
