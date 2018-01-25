@@ -3,7 +3,7 @@ layout: project
 type: project
 title: Computer Forensics
 permalink: projects/computer-forensics
-image: images/ECCouncil_Transcript.png
+image: images/ECCouncil_Transcript.
 # All dates must be YYYY-MM-DD format!
 date: 2017-03-15
 labels:
