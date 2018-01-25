@@ -3,6 +3,7 @@ layout: project
 type: project
 title: Currency Converter
 permalink: projects/currency-converter
+image: images/currency_converter_txt_file.png
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
