@@ -9,9 +9,12 @@ labels:
   - Stackoverflow
 ---
 Smart Questions Do Exist
+
 Naryssa Fia
-ICS 314 University of Hawaii, Manoa 
-    Grade school teachers always said, “there are no dumb questions”. But what about smart questions? Within software engineering, questions and requests for help are everywhere, especially with the popularity of open source software and open discussion sites, such as Stackoverflow. Due to software and programming languages continually changing, it is crucial to be a very detail-oriented software engineer, especially when asking questions and discussing software engineering related topics. Raymond and Moen’s “How to Ask Questions the Smart Way” details how to formulate smart, detail-packed questions that will enhance one’s chances of getting just as good of an answer. 
+
+ICS 314 University of Hawaii, Manoa
+
+ Grade school teachers always said, “there are no dumb questions”. But what about smart questions? Within software engineering, questions and requests for help are everywhere, especially with the popularity of open source software and open discussion sites, such as Stackoverflow. Due to software and programming languages continually changing, it is crucial to be a very detail-oriented software engineer, especially when asking questions and discussing software engineering related topics. Raymond and Moen’s “How to Ask Questions the Smart Way” details how to formulate smart, detail-packed questions that will enhance one’s chances of getting just as good of an answer. 
     
 The first step is for one to answer their own question. Even if an answer is not found in this first step, the person asking gains some knowledge on what options are not viable solutions to the original question [1]. The next step is to ask the question in the correct place. Whether it be through email, or on a forum, asking in the right place is crucial to getting others’ attention in the first place. If using a forum, asking in the right type of forum (i.e. don’t ask about a Java problem in a Python forum). It is also helpful for one to use a detailed subject header when posting or sending a question. This also helps the person asking to really think about exactly what is wrong, and gives the person being asked a quick and summarized idea of what the real question entails. Lastly, don’t assume there’s a bug, and be as descriptive as possible with the question[1]. 
     
