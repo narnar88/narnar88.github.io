@@ -20,6 +20,8 @@ The first step is for one to answer their own question. Even if an answer is not
     
 With these rules of smart questions in mind, let’s take a look at some examples from Stackoverflow. First, let’s look at what would not be a smart question.
 
+<img class="ui medium left floated image" src="../images/Bad_Question_Ex.png">
+
 Notice how the title is still somewhat vague. The user notes they are using Selenium Java 3.5.1, but the error, and the context in which the error being experienced is not clear to the reader. When reading the user’s question, the user does not give any context for the error. What kind of program is this? Could they provide the code associated with the error? What is the end goal of the code? Where is this error being experienced? Note that this question is not marked as answered, and there are comments requesting more information on the issue.
     
 Each project created is very unique, and there could be a plethora of reasons why this error is being experienced. Therefore it is of utmost importance that this user provide more details on this error in order to receive any help from those who may be able to provide some sort of insight.
@@ -27,6 +29,7 @@ Each project created is very unique, and there could be a plethora of reasons wh
 
 Next is a good example of a smart question. The subject header is very descriptive, including the end-goal of the code and version being used. The question itself is very detailed. The user explains their end goal, gives the versions of the language and rig being used, provides code associated with the question, and explains what options have already been ruled out. This question received an answer just as descriptive and illustrative with code provided.
 
+<img class="ui medium left floated image" src="../images/Good_Question_Ex.png">
 
 After analyzing the type of questions other users have shared on Stackoverflow, I have found that there is a multitude of ways in which one can formulate a detailed, illustrative, and easy-to-answer question, or even answer their own question in the process. Raymond and Moen’s, “How to Ask Questions the Smart Way” broke down each way one can enhance a question being asked, and the importance of improving questions in those ways. 
 
