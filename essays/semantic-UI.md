@@ -12,7 +12,7 @@ labels:
 ---
 
     
-   A couple of years ago, a previous course required students to post assignments to a personal blog, written in some HTML, but primarily reliant on wordpress features. This gave the initial impression that HTML was an easy-to-use language, which it can be. However, the past couple of experiences demonstrated how limited raw HTML can be, as well as how useful and powerful user interface (UI) frameworks can be. Recently, with using the Semantic UI framework with HTML and CSS code, it was possible to transform a plain, basic site, to a site that is very elaborate and visually appealing, yet still practical to, not only use, but to also implement.
+   A couple of years ago, a previous course required students to post assignments to a personal blog, written in some HTML, but primarily reliant on Wordpress features. This gave the initial impression that HTML was an easy-to-use language, which it can be for small tasks. However, the past couple of experiences demonstrated how limited raw HTML can be, as well as how useful and powerful user interface (UI) frameworks can be. Recently, with using the Semantic UI framework with HTML and CSS code, it was possible to transform a plain, basic site, to a site that is very elaborate and visually appealing, yet still practical to, not only use, but to also implement.
 
    The first experiment with HTML in this course exemplified the limitations of raw HTML and CSS. The most complex components were hyperlinks and navigation bars/menus, and even then their appearance was very basic. However, developing a site in raw HTML and CSS served as a good base for implementing other UI frameworks.
 
