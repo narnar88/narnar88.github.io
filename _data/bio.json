@@ -6,7 +6,7 @@
     "email": "naryssa@hawaii.edu",
     "phone": "808-375-6084",
     "website": "https://naryssa-fia.github.io",
-    "summary": "I am a Senior studying for a B.A. in Computer Science and a Certificate in Japanese Language at the University of Hawaii. I expect to graduate in Fall, 2018.",
+    "summary": "I am a Senior studying for a B.A. in Computer Science and a Minor in Japanese Language at the University of Hawaii. I expect to graduate in Fall 2018.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -51,6 +51,14 @@
     }
   ],
   "skills": [
+    {
+      "name": "Foreign Language",
+      "level": "Conversational",
+      "keywords": [
+        "Japanese"
+        
+      ]
+    },
     {
       "name": "Languages and Frameworks",
       "level": "",
