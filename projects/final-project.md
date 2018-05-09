@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: final-project
+title: C/C++ Final Project
 permalink: projects/final-project
 image: images/ICS212_F17_final_project.png
 # All dates must be YYYY-MM-DD format!
