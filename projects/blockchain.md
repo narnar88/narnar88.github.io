@@ -10,7 +10,7 @@ labels:
   - Blockchain
   - Cryptocurrency
   - Python
-summary: An experience in building a blockchain for a cryptocurrency 
+summary: An experience in building a blockchain for a cryptocurrency. Contributed Sections 1, 2, 3, 5, 6. Actual code done in unison with partner 
 ---
 Blockchain Implementation: EN Coin
 
