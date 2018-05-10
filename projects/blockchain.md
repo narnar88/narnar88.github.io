@@ -10,7 +10,7 @@ labels:
   - Blockchain
   - Cryptocurrency
   - Python
-summary: An experience in building a blockchain for a cryptocurrency. Contributed Sections 1, 2, 3, 5, 6. Actual code done in unison with partner 
+summary: An experience in building a blockchain for a cryptocurrency. 
 ---
 Blockchain Implementation: EN Coin
 
@@ -115,3 +115,5 @@ April 17, 2018, from http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitc
 
 Van Flymen, D. (2017, September 24). Learn Blockchains by Building One – Hacker Noon. 
 Retrieved March 29, 2018, from https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+NOTE: This was a group project. Contributed Sections 1, 2, 3, 5, 6 in report. For code, contributed wallet and transaction functions.
