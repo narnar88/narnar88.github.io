@@ -62,3 +62,5 @@ Staff ID: 65241
 Department: Anthropology
 
 
+<img class="ui medium rounded image" src="/images/ICS212_F17_final_project.png">
+Output to terminal
