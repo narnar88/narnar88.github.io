@@ -39,6 +39,12 @@
       ]
     },
     {
+      "name": "Databases",
+      "keywords": [
+        "MySQL, PHPMyAdmin"
+      ]
+    },
+    {
       "name": "Japanese Language",
       "keywords": [
         "Japanese", "translation", "日本語"
