@@ -75,3 +75,7 @@ Please enter the amount being deposited:
 Please enter the currency code (USD, AUD, JPY):
 
 USD
+
+
+<img class="ui medium rounded image" src="/images/currency_converter_txt_file.png">
+Currency Converter text file used for persistance
