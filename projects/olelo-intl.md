@@ -22,7 +22,7 @@ The idea behind this website is to create an easy to use forum for students and 
 
 , etc.
 
-Link to Github Repository: https://github.com/olelo-international
+Link to Github Repository: (https://github.com/olelo-international)
 
 INITIAL USER STUDY
 
@@ -38,16 +38,16 @@ Overall, the initial testing for Olelo International was very successful and inf
 
 IMAGES
 
-<img class="ui medium right floated rounded image" src="/images/olelo-git.png">
+<img class="ui medium image" src="/images/olelo-git.png">
 Landing page for Olelo International github.io site. Link: https://olelo-international.github.io/ 
 
-<img class="ui medium right floated rounded image" src="/images/olelo-landing.png">
+<img class="ui medium image" src="/images/olelo-landing.png">
 Landing page for Olelo International, launched via Galaxy. Link: http://olelointernational.meteorapp.com/#/
 
-<img class="ui medium right floated rounded image" src="/images/olelo-forums.png">
+<img class="ui medium image" src="/images/olelo-forums.png">
 The site offers a variety of language forums for student and faculty use
 
-<img class="ui medium right floated rounded image" src="/images/olelo-request.png">
+<img class="ui medium image" src="/images/olelo-request.png">
 The site also allows users to request language forums that do not exist yet. Admin then adds language forums as per request.
 
 
