@@ -39,7 +39,7 @@ Overall, the initial testing for Olelo International was very successful and inf
 IMAGES
 
 <img class="ui medium image" src="/images/olelo-git.png">
-Landing page for [Olelo International github.io site] (https://olelo-international.github.io/) 
+Landing page for [Olelo International github.io site](https://olelo-international.github.io/) 
 
 <img class="ui medium image" src="/images/olelo-landing.png">
 [Landing page for Olelo International](http://olelointernational.meteorapp.com/#/), launched via Galaxy.
