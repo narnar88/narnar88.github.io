@@ -10,7 +10,6 @@ labels:
   - Data Networks
 ---
 
-Telnet for Dummies
 
 What is Telnet?
 
