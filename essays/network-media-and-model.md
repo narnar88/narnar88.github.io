@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: Network Media, OSI Model, and Packet Switching
+# All dates must be YYYY-MM-DD format!
+date: 2018-0-15
+labels:
+  - Data Neworks
+  - Packet Switching
+  - OSI Model
+---
+
 
 Twisted-Pair Copper Wire
 
