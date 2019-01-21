@@ -10,7 +10,6 @@ labels:
   - OSI Model
 ---
 
-
 Twisted-Pair Copper Wire
 
 This multipurpose medium is commonly known for telephone and LAN connections
